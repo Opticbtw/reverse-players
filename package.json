@@ -1,0 +1,1 @@
+{"name":"reverse-presence-server","version":"1.0.0","description":"Live player count for the Project Reverse launcher","main":"presence-server.js","scripts":{"start":"node presence-server.js"},"engines":{"node":">=18"}}
